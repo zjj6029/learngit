@@ -1,3 +1,4 @@
 this is test2.txt
 add new function 1 on feature1 branch at test2.txt
 hahaha 远程修改了
+remote amend测试
